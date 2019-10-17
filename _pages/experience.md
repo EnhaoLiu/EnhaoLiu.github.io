@@ -19,7 +19,7 @@ Skills
 * Software: Minitab, ARENA, Simio
 * Others: LaTeX, Microsoft Office Suite
 * Coursework: Operation Research Models and Methods; Linear Programming; Non-linear Programming; Mixed Integer Programming; Convex Optimization Algorithm; Stochastic Optimization; Stochastic Process; Decomposition Techniques in Mathematical Programming; Intermediate Data Analysis; Mathematical Analysis of Algorithms; Statistical Machine Learning.
-* Language: Chinese (native), English (fluent)
+* Languages: Chinese (native), English (fluent)
 
 Recent Research Experience
 ======
