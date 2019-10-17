@@ -1,10 +1,7 @@
 ---
-layout: archive
 title: "CV"
+collection: pages
 permalink: /download_cv/
-author_profile: true
-redirect_from:
- - /files/
 
 ---
 
