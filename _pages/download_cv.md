@@ -1,7 +1,12 @@
 ---
-title: "CV 22"
+title: "CV 3"
 collection: pages
 permalink: /download_cv/
+excerpt: 
+date: 2019-10-01
+venue: 
+paperurl: 
+citation: 
 
 ---
 
