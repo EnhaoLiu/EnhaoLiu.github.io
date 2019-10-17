@@ -4,6 +4,7 @@ title: "CV"
 permalink: /download_cv/
 author_profile: true
 redirect_from:
+ - /files/
 
 ---
 
