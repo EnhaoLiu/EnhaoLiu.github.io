@@ -1,5 +1,5 @@
 ---
-title: "CV 3"
+title: "CV"
 collection: pages
 permalink: /download_cv/
 excerpt: 
@@ -10,4 +10,4 @@ citation:
 
 ---
 
-[Download CV]('http://EnhaoLiu.github.io/files/2019_CV_full_Enhao_Liu.pdf')
+[Download CV](http://EnhaoLiu.github.io/files/2019_CV_full_Enhao_Liu.pdf)
