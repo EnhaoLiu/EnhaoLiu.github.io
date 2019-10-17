@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering, Jinan University, Guangzhou, China, Aug 2011 - May 2015
+* Master of Science, The Ohio State University, Columbus, OH, USA, Aug 2015 - May 2017
+* Ph.D. Candidate, The Ohio State University, Columbus, OH, USA, Aug 2017 - May 2020 (expected)
+
 
 Work experience
 ======
