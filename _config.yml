@@ -85,9 +85,9 @@ author:
   bio              : "Graduate Research Assistant at The Ohio State University"
   location         : "Columbus, Ohio"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6N0V84AAAAAJ&hl=en"
-  email            :
+  email            : "liu.5045@osu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
