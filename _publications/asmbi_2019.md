@@ -2,7 +2,7 @@
 title: "Cyber Vulnerability Maintenance Policies That Address the Incomplete Nature of Inspection"
 collection: publications
 permalink: /publication/asmbi_2019
-excerpt: This paper is in press.
+excerpt: 'This paper is in press.'
 date: 2019-09-01
 venue: 'Applied Stochastic Models in Business and Industry'
 paperurl: 
