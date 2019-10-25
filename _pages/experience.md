@@ -14,7 +14,7 @@ Skills
 * Programming: Python, R, Matlab, GAMS, SQL
 * Libraries: 
   * Python: scikit-learn, xgboost, hyperopt, pandas, plotly, Flask, sqlalchemy
-  * R: caret, MDPtoolbox, pomdp, ompr, CVXR, tidyverse, visNetwork
+  * R: caret, forecast, MARSS, MDPtoolbox, pomdp, ompr, CVXR, tidyverse, visNetwork
   * Matlab: Cplex Class API
 * Software: Minitab, ARENA, Simio
 * Others: LaTeX, Microsoft Office Suite
