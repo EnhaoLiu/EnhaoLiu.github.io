@@ -1,11 +1,11 @@
 ---
 title: "Cyber Vulnerability Maintenance Policies That Address the Incomplete Nature of Inspection"
 collection: publications
-permalink: https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.2487
+permalink: /publication/asmbi_2019
 excerpt: 
 date: 2019-09-01
 venue: 'Applied Stochastic Models in Business and Industry'
-paperurl: 
+paperurl: https://onlinelibrary.wiley.com/doi/abs/10.1002/asmb.2487
 citation: 
 ---
 
