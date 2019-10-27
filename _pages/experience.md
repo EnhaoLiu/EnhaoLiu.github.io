@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: 
 permalink: /experience/
 author_profile: true
