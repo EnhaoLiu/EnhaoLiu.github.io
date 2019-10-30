@@ -1,5 +1,5 @@
 ---
-title: "Cyber Vulnerability Maintenance Policies That Address the Incomplete Nature of Inspection"
+title: "Cyber Vulnerability Maintenance Policies That Address The Incomplete Nature of Inspection"
 collection: publications
 permalink: /publication/asmbi_2019
 excerpt: 
@@ -15,5 +15,5 @@ Abstract: In cybersecurity, incomplete inspection, resulting mainly from compute
 
 [Download full-text here](http://EnhaoLiu.github.io/files/asmb_2019_ELiu_TTAllen_SRC.pdf)
 
-Recommondation citation: 'Liu, E., Allen, T. T., & Roychowdhury, S. (2019). &quot;Cyber Vulnerability Maintenance Policies That Address the Incomplete Nature of Inspection.&quot; <i>Applied Stochastic Models in Business and Industry</i>. 1-21.'
+Recommondation citation: 'Liu, E., Allen, T. T., & Roychowdhury, S. (2019). &quot;Cyber Vulnerability Maintenance Policies That Address The Incomplete Nature of Inspection.&quot; <i>Applied Stochastic Models in Business and Industry</i>. 1-21.'
 
