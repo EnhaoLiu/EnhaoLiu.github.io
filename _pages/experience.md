@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+Awards
+======
+* 2019: Runner-up, Student Paper Competition, The Social Media Analytics Section of INFORMS.
+* 2013, 2014: Second and Third Prize of Scholarship for Excellent Students, Jinan University.
+* 2013: Third Prize of Scholarship for Excellent Students, Jinan University.
+* 2013: Yihai Kerry Scholarship for Innovative Undergraduates, Jinan University.
+* 2013: Meritorious Winner, National College Mathematical Contest in Modeling.
+* 2012: First Prize, China Undergraduate Mathematical Contest in Modeling.
+
 Skills
 ======
 * Programming: Python, R, Matlab, GAMS, SQL
@@ -43,8 +52,7 @@ Recent Research Experience
     * Worked with Professor Theodore T. Allen and a Ph.D. candidate Sayak Roychowdhury to develop a new Monte Carlo-Bayesian Reinforcement Learning framework to address parameters uncertainty in model-based Markov Decision Processes in which multiple identical-systems have been considered.
     * Collaborated with Professor Theodore T. Allen and a graduate student Akshay K. Murali to build simulation models in ARENA to evaluate the cyber maintenance policies under different scenarios in terms of maintenance costs and security hardening.
     
-
-       
+    
 * Mar 2019: _Scholarly Publication Network Exploration_ (minor)
   * Team Leader
   * Supervisor: Theodore T. Allen
