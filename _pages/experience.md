@@ -12,7 +12,7 @@ redirect_from:
 Awards
 ======
 * 2019: Runner-up, Student Paper Competition, The Social Media Analytics Section of INFORMS.
-* 2013, 2014: Second and Third Prize of Scholarship for Excellent Students, Jinan University.
+* 2014: Second Prize of Scholarship for Excellent Students, Jinan University.
 * 2013: Third Prize of Scholarship for Excellent Students, Jinan University.
 * 2013: Yihai Kerry Scholarship for Innovative Undergraduates, Jinan University.
 * 2013: Meritorious Winner, National College Mathematical Contest in Modeling.
