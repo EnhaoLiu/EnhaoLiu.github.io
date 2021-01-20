@@ -77,12 +77,21 @@ Recent Research Experience
         
 Employment
 ======
+* May 2020 - Present: _Graduate Research Assistant_
+  * The Ohio State University
+  * Department: College of Public Health
+  * Supervisor: Dr. Elisabeth Root, Dr. Ayaz Hyder
+    * Led the development & deployment (including data architecture, software developments, translating requirements, infrastructure design, and implementation) of COVID surveillance web tools for the Ohio Department of Health and school districts in the State of Ohio.
+
+
 * Aug 2016 - Present: _Graduate Research Assistant_
   * The Ohio State University
   * Department: Integrated Systems Engineering; Lab: Security and Efficiency Through Analytics Laboratory
   * Supervisor: Dr. Theodore Allen
-    * Led the project "A Framework For Economical Cyber Security Inspection and Assurance" funded by National Science Foundation (NSF Grant #1912166) starting from May 2019.
+    * Led the project "Advanced AI in Pipeline Anomaly Classification" funded by ROSEN Group from May 2019 to Mar 2020.
+    * Led the project "A Framework For Economical Cyber Security Inspection and Assurance" funded by National Science Foundation (NSF Grant #1912166) from May 2019 to Mar 2020.
     * Led and conducted the project "Data-Driven Cyber Vulnerability Maintenance" funded by National Science Foundation (NSF Grant #1409214) from Aug 2016 to Nov 2018.
+    * Developed the cyber vulnerability risk prediction model with social media indications based on machine learning models. Worked with Pardee Bob and Geoffery Shoupp from Office of theChief Information Officer (OCIO) Enterprise Security at the Ohio State University to deploy the proposed system as an API product.
     * Worked with Dr. Theodore Allen to design a new syllabus and materials for a course "Introduction to Operations Analytics" which was offered in Spring 2020. The new version of this course is aimed to help undergraduate and graduate students learn how to implement industrial applications using R and Python.
 
 * May 2016 - Aug 2016: _Student Associate_
