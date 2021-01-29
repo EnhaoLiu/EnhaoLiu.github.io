@@ -70,7 +70,7 @@ Recent Research Experience
     
     
 * Mar 2019: _Scholarly Publication Network Exploration_
-  * Team Leader
+  * Graduate Research Assistant
   * Supervisor: Dr. Theodore Allen
     * Created a visualized and interactive network using R to depict the publication associations among the scholars and their co-authors who are in the section of INFORMS Social Media Analytics (SMA), which presented in the Newsletter of the section of INFORMS SMA in 2019.
     
