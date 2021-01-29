@@ -46,14 +46,14 @@ Recent Research Experience
 
 
 * May 2019 - Present: _Explainable AI Study - Optimal Classification Tree_ 
-  * Team Leader, NSF Grant #1912166
+  * Graduate Research Assistant, NSF Grant #1912166
   * Supervisor: Dr. Theodore Allen
     * Developed the Python & R package for the optimal classification tree (OCT) algorithm based on mixed-integer linear programming, which supports Gurobi, CPLEX, and GLPK solvers.
     * Applied OCT to the defects classification in pipelines and showed that OCT is comparable to the ensemble learning tree models (such as XGBoost) in terms of model accuracy (96% precision & recall). 
     
 
 * July 2019 - Mar 2020: _Twitter-based Detection for Cyber Vulnerabilities_ 
-  * Team Leader, NSF Grant #1912166
+  * Graduate Research Assistant, NSF Grant #1912166
   * Supervisor: Dr. Theodore Allen
     * Wrote scraping scripts using Python to collect recent five-year Twitter data (millions of tweets) and other online resources about 70,000 distinct software vulnerabilities spanned over 9,000 different vendors.
     * Developed feature generation and classification models to early detect exploited vulnerabilities based on supervised machine learning methods using scikit-learn framework.
@@ -61,7 +61,7 @@ Recent Research Experience
 
     
 * Aug 2016 - Nov 2018: _Cyber Vulnerabilities Maintenance Management_ 
-  * Team Leader, NSF Grant #1409214
+  * Graduate Research Assistant, NSF Grant #1409214
   * Supervisor: Dr. Theodore Allen
     * Implemented comprehensive procedures using R to process and statistically analyze 2.3 million scanned data about vulnerabilities spanned about 50,000 hosts at the Ohio State University, which facilitated the development of data-driven cyber vulnerability maintenance. 
     * Developed a novel framework based on Partially Observable Markov Decision Processes to derive cost-effective cyber vulnerability maintenance policies that address the incomplete inspection issue on 50,000 multi-type hosts.
