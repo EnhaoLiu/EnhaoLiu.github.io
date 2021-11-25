@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Candidate, Aug 2017 - May 2021 (expected)
+* Doctor of Philosophy, Aug 2017 - May 2021 
   * The Ohio State University, Columbus, OH, USA
-  * Major: Operations Research; Minor: Machine Learning, Cybersecurity
+  * Major: Industrial and Systems Engineering - Operations Research
+  * Minor: Machine Learning, Cybersecurity
   * Advisor: Dr. Theodore Allen
-* Master of Science, Aug 2015 - May 2017
+* Master of Science, Aug 2015 - Aug 2017
   * The Ohio State University, Columbus, OH, USA
-  * Major: Operations Research
+  * Major: Industrial and Systems Engineering - Operations Research
   * Advisor: Dr. Theodore Allen
-* Bachelor of Engineering, Aug 2011 - May 2015
+* Bachelor of Engineering, Sep 2011 - June 2015
   * Jinan University, Guangzhou, China
   * Major: Electric Engineering and Automation
 

@@ -15,5 +15,5 @@ Abstract: In cybersecurity, incomplete inspection, resulting mainly from compute
 
 [Download full-text here](http://EnhaoLiu.github.io/files/asmb_2019_ELiu_TTAllen_SRC.pdf)
 
-Recommondation citation: 'Liu E, Allen TT, Roychowdhury S. Cyber vulnerability maintenance poli- cies that address the incomplete nature of inspection. Appl Stochastic Models Bus Ind. 2019;35:1390–1410.'
+Recommondation citation: 'Liu E, Allen TT, Roychowdhury S. Cyber vulnerability maintenance policies that address the incomplete nature of inspection. Appl Stochastic Models Bus Ind. 2019;35:1390–1410.'
 
