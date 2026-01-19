@@ -14,7 +14,7 @@ Employment
 ======
 
 * Feb 2026 - present: _Senior Healthcare Data Scientist_
-  *  University of Maryland Medical System
+  *  University of Maryland Medical System, Linthicum, MD, USA
   *  Department: Enterprise Data & Analytics
      *  **Strategic Leadership and Architecture**: Directed the technical roadmap and architected unified analytics platforms for mission critical enterprise applications, translating executive priorities into scalable AI initiatives.
      *  **Cross Functional Delivery and Scaling**: Served as the primary data science liaison across engineering, data integration, DevOps, product, UI/UX, and clinical teams, leading design reviews and supporting leadership in scaling analytics initiatives from concept through production.
@@ -32,7 +32,7 @@ Employment
 
 
 * May 2021 - Feb 2026: _Healthcare Data Scientist_
-  *  University of Maryland Medical System
+  *  University of Maryland Medical System, Linthicum, MD, USA
   *  Department: Enterprise Data & Analytics
      *  **Production AI Development**: Designed and deployed predictive and prescriptive models to improve patient flow, discharge planning, and bed management, supporting real time clinical and operational decision making across the system.
      *  **Simulation Engineering**: Built a custom Python based discrete event simulation framework to model patient throughput and capacity constraints, enabling data driven planning and operational analysis.
@@ -41,7 +41,7 @@ Employment
 
 
 * May 2020 - May 2021: _Graduate Research Assistant_
-  * The Ohio State University
+  * The Ohio State University, Columbus, OH, USA
   * Department: College of Public Health, College of Arts and Sciences
   * Supervisor: Dr. Ayaz Hyder, Dr. Elisabeth Root
     * Processed large scale mobility and geospatial datasets from SafeGraph to support epidemiological simulation modeling and public health analytics. [[report link]](https://cph.osu.edu/news/2020/05/predictive-modeling-data-curation-helps-guide-state-covid-19-recovery-and-response)
@@ -59,7 +59,7 @@ Employment
 
 
 * Aug 2016 - May 2020: _Graduate Research Assistant_
-  * The Ohio State University
+  * The Ohio State University, Columbus, OH, USA
   * Department: Integrated Systems Engineering; Lab: Security and Efficiency Through Analytics Laboratory
   * Supervisor: Dr. Theodore Allen
     * Led the OSU research team in collaboration with the ROSEN Group to develop interpretable AI models for anomaly detection in oil and gas pipelines, using Magnetic Flux Leakage in line inspection data with both signal and imaging modalities from advanced inspection instruments. 
