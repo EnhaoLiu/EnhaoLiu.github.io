@@ -45,10 +45,10 @@ Employment
 
 Skills
 ======
-* Leadership: Hiring, Team mentorship, Project road mapping, Pilot to production execution, Stakeholder communication, Presentation
-* Data Tech: PostgreSQL, MySQL, SQL Server, Epic Clarity structures, HL7 interfaces, RWB feeds, CDR architecture, Data modeling, Data lineage mapping, Dependency tracing, Performance tuning, ETL design, Airflow, Materialized view strategies
+* Leadership: Hiring and team development, Technical mentorship, Project roadmapping, Pilot to production execution, Cross stakeholder communication, Executive level presentations.
+* Data Tech: PostgreSQL, MySQL, SQL Server, Epic Clarity data structures, HL7 interfaces, Real time EMR feeds including RWB, Common Data Repository architecture, Data modeling, ETL pipeline design, Workflow orchestration with Airflow, Materialized view design and refresh strategies, Data lineage and dependency tracing, Query optimization for performance and reliability
 * Visualization: Streamlit, R Shiny, Plotly, Mapbox GL JS, Leaflet, Matplotlib, Seaborn, visNetwork, Interactive web-based dashboard development
-* Modeling: Supervised & unsupervised learning, Time series modeling, Imbalanced classification, Hyperparameter tuning, Reinforcement learning, Production deployment with CI/CD automation, Pyomo-based optimization, Discrete event simulation, statistical analysis, NLP processing, LLM-based applications
+* Modeling: Supervised & unsupervised learning, Time series modeling, Imbalanced classification, Hyperparameter tuning, Reinforcement learning, Production deployment with CI/CD automation, Pyomo-based optimization, Discrete event simulation, Statistical analysis, NLP processing, LLM-based applications
 * Programming: Python, R, SQL, Matlab, GAMS
 * Libraries: 
   * Python: pyomo, Gurobi API, Cplex API, simpy, scikit-learn, imbalanced-learn, xgboost, hyperopt, keras, NLTK, tokenizers, langchain, OpenCV, skimage, numpy, scipy, pandas, matplotlib, plotly, Flask, sqlalchemy, streamlit, airflow
