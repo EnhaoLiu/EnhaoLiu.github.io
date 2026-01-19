@@ -14,8 +14,8 @@ Employment
 ======
 
 * Feb 2026 - present: **Senior Healthcare Data Scientist**, _University of Maryland Medical System_, Linthicum, MD, USA
-   *  **Strategic Leadership and Architecture**: Directed the technical roadmap and architected unified analytics platforms for mission critical enterprise applications, translating executive priorities into scalable AI initiatives.
-   *  **Cross Functional Delivery and Scaling**: Served as the primary data science liaison across engineering, data integration, DevOps, product, UI/UX, and clinical teams, leading design reviews and supporting leadership in scaling analytics initiatives from concept through production.
+   *  **Technical Strategy and Architecture**: Directed the technical roadmap and architected unified analytics platforms for mission critical enterprise applications, translating executive priorities into scalable AI initiatives. Remained actively involved in core modeling, prototyping, and critical path implementations to ensure decisions are grounded in production realities.
+   *  **Cross Functional Delivery and Scaling**: Served as the primary data science liaison across clinical, product, and app engineering teams (FE, BE, DE, DevOps), leading design reviews and hands on technical discussions to scale analytics initiatives from concept through production.
    *  **Executive Communication and Impact Reporting**: Partnered with senior leadership to communicate outcomes, success stories, and lessons learned through concise reports, presentations, and stakeholder facing materials highlighting benefits and evaluation metrics.
    *  **Mentorship and Team Development**: Mentored data scientists through onboarding, knowledge sharing, and guided walkthroughs of core modeling frameworks, simulation systems, and analytics platforms.
    *  **Intellectual Property and Innovation**: Led development of proprietary analytics capabilities, co-authoring invention disclosures and patent filings.
