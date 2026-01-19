@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Enhao Liu"
 title_separator: "-"
 name: &name "Enhao Liu"
-description: &description "Healthcare Data Scientist at University of Maryland Medical System"
+description: &description "Senior Healthcare Data Scientist at University of Maryland Medical System"
 url: https://EnhaoLiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "EnhaoLiu.github.io"
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name: "Enhao Liu"
-  avatar: "profile_enhao_1.jpg"
-  bio: "Healthcare Data Scientist at University of Maryland Medical System"
+  avatar: "profile_enhao_2.jpg"
+  bio: "Senior Healthcare Data Scientist at University of Maryland Medical System"
   location: "Baltimore, Maryland"
   employer:
   pubmed:
