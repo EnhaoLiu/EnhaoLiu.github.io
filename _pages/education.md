@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Doctor of Philosophy, Aug 2017 - May 2021 
-  * The Ohio State University, Columbus, OH, USA
+* 2017 - 2021: **Doctor of Philosophy**, _The Ohio State University_, Columbus, OH, USA
   * Major: Industrial and Systems Engineering - Operations Research
   * Advisor: Dr. Theodore Allen
-* Master of Science, Aug 2015 - Aug 2017
-  * The Ohio State University, Columbus, OH, USA
+  * PhD Thesis: _Innovative Simulation and Tree Models and Reinforcement Learning Methods with Applications in Cybersecurity_
+* 2015 - 2017: **Master of Science**, _The Ohio State University_, Columbus, OH, USA
   * Major: Industrial and Systems Engineering - Operations Research
   * Advisor: Dr. Theodore Allen
-* Bachelor of Engineering, Sep 2011 - June 2015
-  * Jinan University, Guangzhou, China
+  * Master Thesis: _Logistic Regression Model for Predicting Warning Incident Rates and Implications for the Common Vulnerability Scoring System_
+* 2011 - 2025: **Bachelor of Engineering**, _Jinan University_, Guangzhou, China
   * Major: Electric Engineering and Automation
 
 
