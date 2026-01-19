@@ -13,8 +13,7 @@ redirect_from:
 Employment
 ======
 
-* Feb 2026 - present: _Senior Healthcare Data Scientist_
-  *  University of Maryland Medical System, Linthicum, MD, USA
+* Feb 2026 - present: **Senior Healthcare Data Scientist**, _University of Maryland Medical System_, Linthicum, MD, USA
   *  Department: Enterprise Data & Analytics
      *  **Strategic Leadership and Architecture**: Directed the technical roadmap and architected unified analytics platforms for mission critical enterprise applications, translating executive priorities into scalable AI initiatives.
      *  **Cross Functional Delivery and Scaling**: Served as the primary data science liaison across engineering, data integration, DevOps, product, UI/UX, and clinical teams, leading design reviews and supporting leadership in scaling analytics initiatives from concept through production.
@@ -31,8 +30,7 @@ Employment
      *  **Intellectual Property and Innovation**: Led development of proprietary analytics capabilities, co authoring invention disclosures and patent filings related to predictive modeling and optimized resource allocation. -->
 
 
-* May 2021 - Feb 2026: _Healthcare Data Scientist_
-  *  University of Maryland Medical System, Linthicum, MD, USA
+* May 2021 - Feb 2026: **Healthcare Data Scientist**, _University of Maryland Medical System_, Linthicum, MD, USA
   *  Department: Enterprise Data & Analytics
      *  **Production AI Development**: Designed and deployed predictive and prescriptive models to improve patient flow, discharge planning, and bed management, supporting real time clinical and operational decision making across the system.
      *  **Simulation Engineering**: Built a custom Python based discrete event simulation framework to model patient throughput and capacity constraints, enabling data driven planning and operational analysis.
@@ -40,10 +38,9 @@ Employment
      *  **Data and Analytics Infrastructure**: Developed and maintained analytics ready data layers and real time pipelines that power machine learning models and downstream applications, ensuring reliability and consistency across use cases.
 
 
-* May 2020 - May 2021: _Graduate Research Assistant_
-  * The Ohio State University, Columbus, OH, USA
-  * Department: College of Public Health, College of Arts and Sciences
-  * Supervisor: Dr. Ayaz Hyder, Dr. Elisabeth Root
+* May 2020 - May 2021: **Graduate Research Assistant**, _The Ohio State University_, Columbus, OH, USA
+  * Department: College of Public Health
+  * Supervisor: Dr. Ayaz Hyder & Dr. Elisabeth Root
     * Processed large scale mobility and geospatial datasets from SafeGraph to support epidemiological simulation modeling and public health analytics. [[report link]](https://cph.osu.edu/news/2020/05/predictive-modeling-data-curation-helps-guide-state-covid-19-recovery-and-response)
     * Built scalable geospatial data compression and visualization workflows using Mapbox Tippecanoe and Mapbox GL JS to analyze large volumes of COVID simulation outputs.
     * Implemented statistical and spatial analysis methods in R to identify high risk and actively transmitting populations across multiple geographic levels.
@@ -58,11 +55,11 @@ Employment
     <!-- * Led the development & deployment (including data architecture, software developments, translating requirements, infrastructure design, and implementation) of COVID surveillance web tools for the Ohio Department of Health and school districts in the State of Ohio. -->
 
 
-* Aug 2016 - May 2020: _Graduate Research Assistant_
-  * The Ohio State University, Columbus, OH, USA
-  * Department: Integrated Systems Engineering; Lab: Security and Efficiency Through Analytics Laboratory
+* Aug 2016 - May 2020: **Graduate Research Assistant**, _The Ohio State University_, Columbus, OH, USA
+  * Department: Integrated Systems Engineering
+  * Lab: Security and Efficiency Through Analytics Laboratory
   * Supervisor: Dr. Theodore Allen
-    * Led the OSU research team in collaboration with the ROSEN Group to develop interpretable AI models for anomaly detection in oil and gas pipelines, using Magnetic Flux Leakage in line inspection data with both signal and imaging modalities from advanced inspection instruments. 
+    * Led the OSU research team in collaboration with the [ROSEN Group](https://www.rosen-group.com/en) to develop interpretable AI models for anomaly detection in oil and gas pipelines, using Magnetic Flux Leakage in line inspection data with both signal and imaging modalities from advanced inspection instruments. 
     * Designed and deployed a cyber vulnerability prioritization scoring system, covering data fusion, model development, and applied product design to support early risk assessment and mitigation.
     * Developed decision making models under uncertainty using Partially Observable Markov Decision Processes, Bayesian Reinforcement Learning, and Discrete Event Simulation to optimize inspection and maintenance policies for cybersecurity operations. 
     * Co-authored peer reviewed journal articles and presented research at academic conferences in operations research, machine learning, reinforcement learning, and simulation.
