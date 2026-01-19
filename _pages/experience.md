@@ -14,24 +14,14 @@ Employment
 ======
 
 * Feb 2026 - present: **Senior Healthcare Data Scientist**, _University of Maryland Medical System_, Linthicum, MD, USA
-  <!-- *  Department: Enterprise Data & Analytics -->
    *  **Strategic Leadership and Architecture**: Directed the technical roadmap and architected unified analytics platforms for mission critical enterprise applications, translating executive priorities into scalable AI initiatives.
    *  **Cross Functional Delivery and Scaling**: Served as the primary data science liaison across engineering, data integration, DevOps, product, UI/UX, and clinical teams, leading design reviews and supporting leadership in scaling analytics initiatives from concept through production.
    *  **Executive Communication and Impact Reporting**: Partnered with senior leadership to communicate outcomes, success stories, and lessons learned through concise reports, presentations, and stakeholder facing materials highlighting benefits and evaluation metrics.
    *  **Mentorship and Team Development**: Mentored data scientists through onboarding, knowledge sharing, and guided walkthroughs of core modeling frameworks, simulation systems, and analytics platforms.
    *  **Intellectual Property and Innovation**: Led development of proprietary analytics capabilities, co-authoring invention disclosures and patent filings.
 
-     <!-- *  **Strategic Product Leadership**: Directed the technical roadmap for mission critical enterprise applications, translating executive priorities into scalable AI initiatives, delivery milestones, and long term platform strategy.
-     *  **Enterprise AI Architecture**: Architected unified analytics and real time data platforms that form the foundation for system wide predictive analytics, operational resiliency, and cross application reuse.
-     *  **Cross Functional Technical Leadership**: Served as the primary data science liaison across engineering, data integration, DevOps, UI UX, product, and clinical SMEs. Co led design reviews and cross team discussions to align UI flows, backend logic, model behavior, and clinical workflows.
-     *  **Organizational Scaling and Delivery**: Supported senior leadership in scaling analytics initiatives by producing clear technical documentation, prototypes, and production ready deliverables, incorporating insights from site visits and operational shadowing, and aligning project roadmaps across teams.
-     *  **Executive Communication and Impact Reporting**: Partnered with leadership to communicate outcomes, success stories, and lessons learned through concise reports, presentations, and stakeholder facing materials highlighting benefits and evaluation metrics.
-     *  **Mentorship and Team Capability Building**: Mentored data scientists through onboarding, active knowledge sharing, and guided walkthroughs of core simulation models, machine learning frameworks, and analytics dashboards, strengthening team consistency and technical depth.
-     *  **Intellectual Property and Innovation**: Led development of proprietary analytics capabilities, co authoring invention disclosures and patent filings related to predictive modeling and optimized resource allocation. -->
-
 
 * May 2021 - Feb 2026: **Healthcare Data Scientist**, _University of Maryland Medical System_, Linthicum, MD, USA
-  <!-- *  Department: Enterprise Data & Analytics -->
    *  **AI and Operations Research Modeling**: Designed and deployed predictive, prescriptive, optimization, and simulation based models to improve patient flow, discharge planning, and bed management, supporting real time clinical and operational decision making.
    *  **MLOps Ecosystem**: Engineered standardized modeling frameworks and configuration driven pipelines to support scalable training, deployment, and monitoring of production models.
    *  **Real Time Data and Application Infrastructure**: Co-designed and built real time EMR pipelines through HL7 and RWB, and developed analytics ready data layers, ORM based data access layers, and application facing views that power downstream APIs and real time analytics applications.
@@ -39,43 +29,19 @@ Employment
 
 
 * May 2020 - May 2021: **Graduate Research Assistant**, _The Ohio State University_, Columbus, OH, USA
-  <!-- * Department: College of Public Health
-  * Supervisor: Dr. Ayaz Hyder & Dr. Elisabeth Root -->
   * Processed large scale mobility and geospatial datasets from SafeGraph to support epidemiological simulation modeling and public health analytics. [[report link]](https://cph.osu.edu/news/2020/05/predictive-modeling-data-curation-helps-guide-state-covid-19-recovery-and-response)
   * Built scalable geospatial data compression and visualization workflows using Mapbox Tippecanoe and Mapbox GL JS to analyze large volumes of COVID simulation outputs.
   * Implemented statistical and spatial analysis methods in R to identify high risk and actively transmitting populations across multiple geographic levels.
   * Led development of a production COVID-19 surveillance platform for the Ohio Department of Health, including data architecture, interactive applications, and epidemiological models such as EWMA, space-time permutation scan statistics, and Bayesian spatio-temporal nowcasting model.
   * Delivered a school-focused COVID analytics and surveillance system supporting data informed decisions across 20+ school districts.
-    
-    <!-- * Collected and processed millions of geographic data for workplaces in Ohio from SafeGraph based on Python programming to enrich the [COVIDCommons](https://covid-commons.osu.edu/) database and facilitate epidemiological simulation modeling. [[report link]](https://cph.osu.edu/news/2020/05/predictive-modeling-data-curation-helps-guide-state-covid-19-recovery-and-response)
-    * Performed a compression algorithm using [Mapbox Tippecano](https://github.com/mapbox/tippecanoe) and Python programming to efficiently process billions of results from the COVID-19 epidemiological simulation model for the central Ohio, and implemented the dynamic map visualization using Mapbox GL JS for a variety of "what-if" pandemic mitigation policies.
-    * Implemented algorithms in R to allow local health departments to precisely identify populations at high risk of an outbreak and active SARS-CoV-2 transmission at a range of geographic levels (counties, ZIP codes, census tracts, and school districts).
-    * Led the full infrastructure of the R Shiny-based web application of the COVID-19 surveillance system for the Ohio Department of Health, including data architecture, software developments, translating requirements, infrastructure design, and implementation on statistical and epidemiological models (including EWMA, relative risk model, space-time permutation scan statistics, and Bayesian spatio-temporal nowcasting model).
-    * Developed a school-based web application of the COVID-19 surveillance system, called  COVID-19 Analytics and Targeted Surveillance System (CATS), for more than 20 school districts, enabling superintendents to make learning mode schedules for about 300 schools, 180,000 students, and 20,000 staff members. -->
-    <!-- * Led the development & deployment (including data architecture, software developments, translating requirements, infrastructure design, and implementation) of COVID surveillance web tools for the Ohio Department of Health and school districts in the State of Ohio. -->
 
 
 * Aug 2016 - May 2020: **Graduate Research Assistant**, _The Ohio State University_, Columbus, OH, USA
-  <!-- * Department: Integrated Systems Engineering
-  * Lab: Security and Efficiency Through Analytics Laboratory
-  * Supervisor: Dr. Theodore Allen -->
   * Led the OSU research team in collaboration with the [ROSEN Group](https://www.rosen-group.com/en) to develop interpretable AI models for anomaly detection in oil and gas pipelines, using Magnetic Flux Leakage in line inspection data with both signal and imaging modalities from advanced inspection instruments. 
   * Designed and deployed a cyber vulnerability prioritization scoring system, covering data fusion, model development, and applied product design to support early risk assessment and mitigation.
   * Developed decision making models under uncertainty using Partially Observable Markov Decision Processes, Bayesian Reinforcement Learning, and Discrete Event Simulation to optimize inspection and maintenance policies for cybersecurity operations. 
   * Co-authored peer reviewed journal articles and presented research at academic conferences in operations research, machine learning, reinforcement learning, and simulation.
   * Mentored 20+ undergraduate and graduate students on research and course projects in data science, machine learning, and optimization.
-
-    <!-- * Led the project "Advanced AI in Pipeline Anomaly Classification" funded by ROSEN Group from May 2019 to Mar 2020.
-    * Led the project "A Framework For Economical Cyber Security Inspection and Assurance" funded by National Science Foundation (NSF Grant #1912166) from May 2019 to Mar 2020.
-    * Led and conducted the project "Data-Driven Cyber Vulnerability Maintenance" funded by National Science Foundation (NSF Grant #1409214) from Aug 2016 to Nov 2018.
-    * Developed the cyber vulnerability risk prediction model with social media indications based on machine learning models. Worked with Pardee Bob and Geoffery Shoupp from Office of the Chief Information Officer (OCIO) Enterprise Security at the Ohio State University to deploy the proposed system as an API product.
-    * Worked with Dr. Theodore Allen to design a new syllabus and materials for a course "Introduction to Operations Analytics" which was offered in Spring 2020. The new version of this course is aimed to help undergraduate and graduate students learn how to implement industrial applications using R and Python. -->
-
-<!-- * May 2016 - Aug 2016: _Student Associate_
-  * The Ohio State University
-  * Department: Integrated Systems Engineering; Lab: Security and Efficiency Through Analytics Laboratory
-  * Supervisor: Dr. Theodore Allen
-    * Developed and deployed a software with UI interface using VB.NET to produce data-driven cyber vulnerabilities maintenance policies for about 50,000 hosts at the Ohio State University. -->
 
 Skills
 ======
