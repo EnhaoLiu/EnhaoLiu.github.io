@@ -19,7 +19,7 @@ Education
   * Major: Industrial and Systems Engineering - Operations Research
   * Advisor: Dr. Theodore Allen
   * Master Thesis: _Logistic Regression Model for Predicting Warning Incident Rates and Implications for the Common Vulnerability Scoring System_
-* 2011 - 2025: **Bachelor of Engineering**, _Jinan University_, Guangzhou, China
+* 2011 - 2015: **Bachelor of Engineering**, _Jinan University_, Guangzhou, China
   * Major: Electric Engineering and Automation
 
 
