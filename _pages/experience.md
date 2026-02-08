@@ -14,17 +14,17 @@ Employment
 ======
 
 * Feb 2026 - present: **Senior Healthcare Data Scientist**, _University of Maryland Medical System_, Linthicum, MD, USA
-   *  **Technical Strategy and Architecture**: Directed the technical roadmap and architected unified analytics platforms for mission critical enterprise applications, translating executive priorities into scalable AI initiatives. Remained actively involved in core modeling, prototyping, and critical path implementations to ensure decisions are grounded in production realities.
-   *  **Cross Functional Delivery and Scaling**: Served as the primary data science liaison across clinical, product, and app engineering teams (FE, BE, DE, DevOps), leading design reviews and hands on technical discussions to scale analytics initiatives from concept through production.
-   *  **Executive Communication and Impact Reporting**: Partnered with senior leadership to communicate outcomes, success stories, and lessons learned through concise reports, presentations, and stakeholder facing materials highlighting benefits and evaluation metrics.
-   *  **Mentorship and Team Development**: Mentored data scientists through onboarding, knowledge sharing, and guided walkthroughs of core modeling frameworks, simulation systems, and analytics platforms.
-   *  **Intellectual Property and Innovation**: Led development of proprietary analytics capabilities, co-authoring invention disclosures and patent filings.
+   *  **Technical Strategy and Architecture**: Directed technical roadmaps and architected unified analytics platforms for mission critical enterprise applications, translating executive priorities into scalable AI initiatives, with hands on involvement in core modeling and critical path implementations to ensure decisions are grounded in production realities.
+   *  **Cross Functional Delivery and Scaling**: Served as the primary data science liaison across clinical, product, and application engineering teams, leading design reviews and hands on technical discussions to scale analytics initiatives from concept to production.
+   *  **Executive Communication and Impact Reporting**: Partnered with senior leadership to communicate outcomes, tradeoffs, and lessons learned through concise reports, presentations, and stakeholder facing materials focused on value, impact, and evaluation metrics.
+   *  **Mentorship and Team Development**: Mentored data scientists through onboarding, knowledge sharing, and guided walkthroughs of core modeling frameworks and analytics platforms to elevate team capability and technical maturity.
+   *  **Intellectual Property and Innovation**: Led innovation initiatives and contributed to intellectual property development by formalizing system designs, modeling approaches, and platform level capabilities supporting long term differentiation.
 
 
 * May 2021 - Feb 2026: **Healthcare Data Scientist**, _University of Maryland Medical System_, Linthicum, MD, USA
-   *  **AI and Operations Research Modeling**: Designed and deployed predictive, prescriptive, optimization, and simulation based models to improve patient flow, discharge planning, and bed management, supporting real time clinical and operational decision making.
+   *  **AI and Operations Research Modeling**: Designed and deployed advanced predictive and optimization models powering large scale clinical and operational decision support systems.
    *  **MLOps Ecosystem**: Engineered standardized modeling frameworks and configuration driven pipelines to support scalable training, deployment, and monitoring of production models.
-   *  **Real Time Data and Application Infrastructure**: Co-designed and built real time EMR pipelines through HL7 and RWB, and developed analytics ready data layers, ORM based data access layers, and application facing views that power downstream APIs and real time analytics applications.
+   *  **Real Time Data and Application Infrastructure**: Co-designed and built real time EMR/EHR pipelines through HL7 and RWB, and developed analytics ready data layers, ORM based data access layers, and application facing views that power downstream APIs and real time analytics applications.
    *  **Enterprise System Reliability and Technical Leadership**: Led cross team technical coordination across data science, data engineering, and full stack teams to improve platform resiliency through refactoring, dependency mapping, and end-to-end debugging across data, modeling, and application layers.
 
 
